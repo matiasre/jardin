@@ -17,6 +17,7 @@ ul > li a{float: left;}
 .titulonosotrospart{
 	position: absolute;
 	left: 2%;
+	top: -1%;
 	color: #5A6499;
 	font-size: 2em;
 	font-family:  sans-serif;
